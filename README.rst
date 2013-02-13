@@ -1,4 +1,4 @@
-jszip for Twitter Bower
+JSZip for Twitter Bower
 =======================
 
 This is a repository used to add jszip to the bower components repository.
